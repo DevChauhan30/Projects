@@ -1,0 +1,23 @@
+node {
+    text-alignment: center;
+    size: 20px;
+    fill-color: red;
+    shape: diamond;
+    text-color: white;
+    text-style: italic;
+    text-size: 14px;
+    text-font: Times;
+}
+edge {
+    shape: freeplane;
+    fill-color: grey;
+    size: 2px;
+    text-alignment: under;
+    text-color: white;
+    text-style: italic;
+    text-size: 14px;
+    text-font: Times;
+}
+graph{
+    fill-color: black;
+}
