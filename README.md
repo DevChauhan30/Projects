@@ -1,2 +1,2 @@
-# Projects
-In this folder you can access projects I have worked on while I was pursuing a degree in Computer Science.
+# VizSharkJunior
+Is a Visualization of Network Traffic Using Wireshark Data is a semester project that I worked on during Spring 2021 semster for Dr. Jerry Gannod's Objected-orienter programming class.
